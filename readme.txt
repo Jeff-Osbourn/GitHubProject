@@ -1,0 +1,1 @@
+This is an example of a readme. We can put a description of the project in here. 
